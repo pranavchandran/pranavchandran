@@ -92,8 +92,8 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="pranavchandran's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pranavchandran&show_icons=true&theme=radical"/>
-
+  <!-- <img align="left" alt="pranavchandran's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pranavchandran&show_icons=true&theme=radical"/> -->
+![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=pranavchandran&show_icons=true&theme=radical)
 </details>
 
 [website]: https://codeSTACKr.com
