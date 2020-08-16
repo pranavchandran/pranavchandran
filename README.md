@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- <img src="https://img.icons8.com/officexs/30/000000/learning.png"/>Now Looking More in Machine Learning.
+- <img src="https://img.icons8.com/doodle/48/000000/learning.png"/>Now Looking More in Machine Learning.
 <img src="https://img.icons8.com/color/48/000000/python.png"/>Going Deep Dive in Python.
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
