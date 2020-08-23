@@ -11,7 +11,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - <img src="https://img.icons8.com/doodle/48/000000/learning.png"/>Now Looking More in Machine Learning.
 <img src="https://img.icons8.com/color/48/000000/python.png"/>Going Deep Dive in Python.
-- <img src="live_on_work_git.gif">
+- <img src="./live_on_work_git.gif" alt="">
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
 <!-- ### Spotify Playing 🎧
