@@ -9,6 +9,9 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
+- <img src="https://img.icons8.com/doodle/48/000000/learning.png"/>Now Looking More in Machine Learning.
+<img src="https://img.icons8.com/color/48/000000/python.png"/>Going Deep Dive in Python.  
+<img src="./live_on_work_git.gif">
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
 <!-- ### Spotify Playing 🎧
@@ -58,7 +61,7 @@
 - [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://www.youtube.com/pranavchandran)
 
 ---
 
@@ -72,7 +75,7 @@
 - [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://www.selfcoder.xyz/)
 
 ---
 
@@ -92,8 +95,8 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
+  <!-- <img align="left" alt="pranavchandran's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pranavchandran&show_icons=true&theme=radical"/> -->
+![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=pranavchandran&show_icons=true&theme=radical)
 </details>
 
 [website]: https://codeSTACKr.com
