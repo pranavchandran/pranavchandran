@@ -7,9 +7,10 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
 ## Success is when your signature becomes an AutoGraph(AK)!
--  Now working in USA Project
+-  Now working in USA Project and New Shopping site in India.
 -  Newweigh - USA Project
 - 🔭 2019 - 2020 worked on Frappe-ErpNext Project 
+-    2018 - 2019 worked as Freelancer.(Lot of online sites).
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
