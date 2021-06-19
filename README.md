@@ -1,7 +1,7 @@
 ### Hi there, I'm Pranav Chandran - [selfcoder][https://www.selfcoder.xyz/] 👋
 
 
-![banner_ml](https://user-images.githubusercontent.com/57369824/90974364-7f7ad480-e4f8-11ea-80a2-64bd28a404c8.gif)
+![banner_ml](https://gifimage.net/wp-content/uploads/2017/09/black-hole-destroying-earth-gif-2.gif)
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
