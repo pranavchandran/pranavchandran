@@ -7,12 +7,14 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
 ## Success is when your signature becomes an AutoGraph(AK)!
-
-- 🔭 I’m currently working on a [Frappe-ErpNext Project][website]!
+-  Now working in USA Project
+-  Newweigh - USA Project
+- 🔭 2019 - 2020 worked on Frappe-ErpNext Project 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- <img src="https://img.icons8.com/doodle/48/000000/learning.png"/>Now Looking More in Machine Learning.
+- 
+- <img src="https://images.app.goo.gl/VNiFTYpjVJGhXB499"/> 
 <img src="https://img.icons8.com/color/48/000000/python.png"/>Going Deep Dive in Python.
 
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
