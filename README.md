@@ -1,4 +1,16 @@
-### Hi there, I'm Pranav Chandran - [selfcoder][https://www.selfcoder.xyz/] 👋
+### Hi there, I'm Pranav Chandran - 👋
+
+## Technology Stack:
+- [x] Python - Django, Flask, Frappe, ErpNext
+- [x] React - React Native
+- [x] Machine Learning - Deep Learning
+- [x] Data Science - Data Analytics - Data Visualization
+- [x] SQL - NoSQL - MongoDB - MySQL - PostgreSQL - SQLite
+- [x] HTML - CSS - JavaScript - Bootstrap - Materialize
+- [x] Git - GitHub - GitLab
+- [x] Splunk - Dynatrace
+- [x] Node.js - Express.js - jQuery - AJAX - RESTful API - JSON - .yaml
+
 
 ### Blogger : https://roamingrebel.blogspot.com/
 
