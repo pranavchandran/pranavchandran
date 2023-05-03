@@ -1,5 +1,11 @@
 ### Hi there, I'm Pranav Chandran - [selfcoder][https://www.selfcoder.xyz/] 👋
 
+### Blogger : https://roamingrebel.blogspot.com/
+
+## New Projects in 2023
+- [Zoom Automation] - Project sold to Another Company
+- [Whatsapp Automation] - Pending
+- [Youtube Automation] - Project sold to Another Company
 
 ![banner_ml](https://gifimage.net/wp-content/uploads/2017/09/black-hole-destroying-earth-gif-2.gif)
 
