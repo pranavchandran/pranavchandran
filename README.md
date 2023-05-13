@@ -1,9 +1,9 @@
 ### Hi there, I'm Pranav Chandran - 👋
 
 ## Technology Stack:
-- [x] Python - Django, Flask, Frappe, ErpNext
+- [x] Python - Django, Flask, Frappe, ErpNext, FastAPI
 - [x] React - React Native
-- [x] Machine Learning - Deep Learning
+- [x] Machine Learning - Deep Learning - Natural Language Processing 
 - [x] Data Science - Data Analytics - Data Visualization
 - [x] SQL - NoSQL - MongoDB - MySQL - PostgreSQL - SQLite
 - [x] HTML - CSS - JavaScript - Bootstrap - Materialize
