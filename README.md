@@ -10,6 +10,7 @@
 - [x] Git - GitHub - GitLab
 - [x] Splunk - Dynatrace
 - [x] Node.js - Express.js - jQuery - AJAX - RESTful API - JSON - .yaml
+- [x] C#, .net 
 
 
 ### Blogger : https://roamingrebel.blogspot.com/
