@@ -10,10 +10,14 @@
 - [x] Git - GitHub - GitLab
 - [x] Splunk - Dynatrace
 - [x] Node.js - Express.js - jQuery - AJAX - RESTful API - JSON - .yaml
-- [x] C#, .net 
-
+- [x] C#, .net
+- [x] LangChain, VSCode extension & Bot making
+- [x] Docker
 
 ### Blogger : https://roamingrebel.blogspot.com/
+
+### New projects in 2024
+- VSCode Extension - Dakshamugh bot
 
 ## New Projects in 2023
 - [Zoom Automation] - Project sold to Another Company
