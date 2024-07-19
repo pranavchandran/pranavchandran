@@ -1,7 +1,9 @@
 ### Hi there, I'm Pranav Chandran - 👋
 
 ## Technology Stack:
+- [x] AI - Generative AI, Llama-Index, LangChain
 - [x] Python - Django, Flask, Frappe, ErpNext, FastAPI
+- [x] Cloud - AWS Cloud practitioner, Hands on experience of > 3y 
 - [x] React - React Native
 - [x] Machine Learning - Deep Learning - Natural Language Processing 
 - [x] Data Science - Data Analytics - Data Visualization
@@ -14,9 +16,10 @@
 - [x] LangChain, VSCode extension & Bot making
 - [x] Docker
 
-### Blogger : https://roamingrebel.blogspot.com/
+### Blogger: https://roamingrebel.blogspot.com/
 
 ### New projects in 2024
+- Currently creating a useful model for AI operations.
 - VSCode Extension - Dakshamugh bot
 
 ## New Projects in 2023
@@ -30,11 +33,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
 ## Success is when your signature becomes an AutoGraph(AK)!
--  Now Working in Tech M - AE,SE
--  Now working in USA Project and New Shopping site in India.
--  Newweigh - USA Project
+-  2022 to in Tech M - AE, SE
+-  From 2021 to 2022 worked on a USA Project.
+-  2020 Newweigh - USA Project
 - 🔭 2019 - 2020 worked on Frappe-ErpNext Project 
--    2018 - 2019 worked as Freelancer.(Lot of online sites).
+-    2018 - 2019 worked as a Freelancer. (Lot of online sites).
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
