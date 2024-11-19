@@ -1,5 +1,9 @@
 ### Hi there, I'm Pranav Chandran - 👋
 
+## Certifications
+- [![AWS Certified Developer – Associate]![aws-certified-developer-associate](https://github.com/user-attachments/assets/e2477bd8-6066-43eb-84db-4b71ec5c7069)
+
+
 ## Technology Stack:
 - [x] AI - Generative AI, Llama-Index, LangChain
 - [x] Python - Django, Flask, Frappe, ErpNext, FastAPI
