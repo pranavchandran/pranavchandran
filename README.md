@@ -1,7 +1,7 @@
 ### Hi there, I'm Pranav Chandran - 👋
 
 ## Certifications
-- [![AWS Certified Developer – Associate](https://github.com/user-attachments/assets/e2477bd8-6066-43eb-84db-4b71ec5c7069)](https://www.certification-url.com) AWS Certified Developer – Associate
+- [![AWS Certified Developer – Associate](https://github.com/user-attachments/assets/e2477bd8-6066-43eb-84db-4b71ec5c7069)]([https://www.certification-url.com](https://www.credly.com/badges/3b39061d-2267-47ba-9e17-e3436f12988e/public_url)) AWS Certified Developer – Associate
 
 
 ## Technology Stack:
