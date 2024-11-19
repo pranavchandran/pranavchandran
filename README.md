@@ -2,8 +2,7 @@
 
 ## Certifications
 - [![AWS Certified Developer – Associate](https://github.com/user-attachments/assets/e2477bd8-6066-43eb-84db-4b71ec5c7069)]([https://www.certification-url.com](https://www.credly.com/badges/3b39061d-2267-47ba-9e17-e3436f12988e/public_url)) AWS Certified Developer – Associate
-- [![aws-certified-cloud-practitioner](https://github.com/user-attachments/assets/5e190d14-63e1-48bc-b16a-d3202736cce4)
-([https://www.certification-url.com]([https://www.credly.com/badges/3b39061d-2267-47ba-9e17-e3436f12988e/public_url](https://www.credly.com/badges/3c0874ef-9a79-4df9-ab69-fae9449e5282/public_url))) AWS Certified Cloud-practitioner
+- [![aws-certified-cloud-practitioner](https://github.com/user-attachments/assets/5e190d14-63e1-48bc-b16a-d3202736cce4)]([https://www.credly.com/badges/3b39061d-2267-47ba-9e17-e3436f12988e/public_url](https://www.credly.com/badges/3c0874ef-9a79-4df9-ab69-fae9449e5282/public_url))) AWS Certified Cloud-practitioner
 
 
 ## Technology Stack:
